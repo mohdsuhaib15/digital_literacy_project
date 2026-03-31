@@ -1,4 +1,4 @@
-**digital_literacy_project**
+# digital_literacy_project
 
 Name: Mohd Suhaib Khan
 
