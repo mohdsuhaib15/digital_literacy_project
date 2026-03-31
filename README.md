@@ -1,6 +1,9 @@
 Name: Mohd Suhaib Khan
+
 Registration Number: 25BAI11349
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
 
 __Project Overview__
@@ -9,7 +12,7 @@ This repository contains my Digital Literacy Portfolio, created as part of the C
 As a Student Digital Ambassador, this project aims to help students understand and navigate the digital world effectively. It covers topics like digital awareness, professional online presence, coding platforms, communication skills, and cyber safety.
 The repository includes all five tasks along with supporting files and a detailed project report.
 
-__Task Summary__
+_Task Summary_
 
 __Task 1: Digital Literacy Infographic__
 
