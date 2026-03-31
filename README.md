@@ -42,3 +42,33 @@ __Task 5: Cybercrime Awareness__
 Developed a case study on a cybercrime topic
 
 Created a prevention checklist for staying safe online
+
+**Useful Links**
+
+GitHub: https://github.com
+
+LinkedIn: https://linkedin.com
+
+HackerRank: https://hackerrank.com
+
+Google Forms: https://forms.google.com
+
+Cyber Crime Portal: https://cybercrime.gov.in
+
+__Repository Structure__
+
+Report/ — Final project report
+
+task-1-presentation/ — Infographic
+
+task-2-portfolio/ — Profile screenshots
+
+task-3-platforms/ — Coding & form screenshots
+
+task-4-email_etiquette/ — Emails & checklist
+
+task-5-cybercrime/ — Case study & prevention guide
+
+This project helped me develop essential digital skills that are important for academic and professional growth. It also improved my awareness of safe and responsible online behavior.
+
+
